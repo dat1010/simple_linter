@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinterService", "LinterService\LinterService.csproj", "{F84E95DA-5241-432B-9ABF-0DB177F1DE4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinterService.Tests", "LinterService.Tests\LinterService.Tests.csproj", "{B188522A-E7E1-4743-A04B-ADCEE1291B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{F84E95DA-5241-432B-9ABF-0DB177F1DE4D}.Release|x64.Build.0 = Release|Any CPU
 		{F84E95DA-5241-432B-9ABF-0DB177F1DE4D}.Release|x86.ActiveCfg = Release|Any CPU
 		{F84E95DA-5241-432B-9ABF-0DB177F1DE4D}.Release|x86.Build.0 = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|x64.Build.0 = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Debug|x86.Build.0 = Debug|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|x64.ActiveCfg = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|x64.Build.0 = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|x86.ActiveCfg = Release|Any CPU
+		{B188522A-E7E1-4743-A04B-ADCEE1291B87}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
